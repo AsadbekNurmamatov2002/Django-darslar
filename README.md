@@ -56,3 +56,26 @@ URLda foydalanish uchun qiymatdan tashqariga chiqadi.
 __upper__
 Satrni barcha bosh harflarga aylantiradi.
 {{ value|upper }}
+
+
+## _demak misollarga o'tamiz__
+__1-qadam__   Django - Virtual muhit yaratish va Djangoni o'rnatamiz
+>       py -m venv myen
+>       myworld\Scripts\activate.bat
+>       py -m pip install Django
+>       django-admin --version
+>       5.0
+>       django-admin startproject myproject
+>       cd myproject
+>       py manage.py runserver
+>       CTRL+C
+>       py manage.py startapp myfilter
+>       code .
+__2-qadam__ Django- loyihamizni+ ilavalarimizbilan birlashtiramiz (project+app)
+__settings.py__ appni qo'shqmiz
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/d46d4bfe-b27f-4c3f-813e-cd2c19cec3a6)
+__urls.py__ app dage urls.py ni ko'rsatib qo'yishimiz kerak
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/7cb8b04b-ec9d-482f-bae6-bf5e6996ee7d)
+__myfilter/urls.py__ views.py dagi Home funcsiyamizni ko'rsatamiz
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/c04102af-423d-4fa9-8b26-7df963746d1a)
+
