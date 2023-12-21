@@ -78,4 +78,12 @@ __urls.py__ app dage urls.py ni ko'rsatib qo'yishimiz kerak
 ![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/7cb8b04b-ec9d-482f-bae6-bf5e6996ee7d)
 __myfilter/urls.py__ views.py dagi Home funcsiyamizni ko'rsatamiz
 ![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/c04102af-423d-4fa9-8b26-7df963746d1a)
+__3-qadam__ views.py quydagilarni qo'shamiz
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/c2eebe2d-7efc-4904-b151-4c76a632d4db)
+
+__4-qadam__ template __home.html_ 
+settins.py ga templates fileni qo'shing
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/b57d9a41-13ee-4863-b867-a7156008e767)
+views.py ga quydagilarni yozamiz
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/9fdb15f9-0300-4e4b-8fe3-13d1c5c1be02)
 
