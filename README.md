@@ -87,3 +87,4 @@ settins.py ga templates fileni qo'shing
 views.py ga quydagilarni yozamiz
 ![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/9fdb15f9-0300-4e4b-8fe3-13d1c5c1be02)
 
+![image](https://github.com/AsadbekNurmamatov2002/Django-darslar/assets/144318530/0e6aa955-72bd-49db-8b48-25874473152c)
